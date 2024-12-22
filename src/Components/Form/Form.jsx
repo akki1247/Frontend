@@ -37,12 +37,12 @@ const Form = () => {
 
   const events1 = [
     { name: 'National Conference', amount: 100 },
-    { name: 'Brain Battle', amount: 100 },
-    { name: 'Media Splash', amount: 100 },
-    { name: 'Wisdom War', amount: 100 },
-    { name: 'Hack in the Dark', amount: 100 },
-    { name: 'Spark the Idea', amount: 100 },
-    { name: 'Gold Rush Quest', amount: 100 }
+    { name: 'Brain Battle (Day1)', amount: 100 },
+    { name: 'Media Splash(Day1)', amount: 100 },
+    { name: 'Wisdom War(Day1)', amount: 100 },
+    { name: 'Hack in the Dark(Day2)', amount: 100 },
+    { name: 'Spark the Idea(Day2)', amount: 100 },
+    { name: 'Gold Rush Quest(Day2)', amount: 100 }
   ]
 
   const qrCodes = {
